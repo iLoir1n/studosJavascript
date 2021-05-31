@@ -11,5 +11,3 @@ console.log("Linha 2")
 *Comentario de 
 * multiplas linhas
 */
-
-1
